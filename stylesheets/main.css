@@ -1,0 +1,37 @@
+body {
+  background-color: #4054aa;
+  color: #FFD464;
+}
+
+h1 {
+  margin-bottom: 10rem;
+}
+
+a {
+  color: #FFEF00;
+  font-size: 2rem;
+}
+
+a:hover {
+  color: #f0ad4e;
+  text-decoration: none;
+}
+
+.input-group {
+  margin-top: 5rem;
+}
+
+.results a h2 {
+  color: #4054aa;
+  text-decoration: none;
+}
+
+.results a p {
+  color: black;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+.well {
+  background-color: white;
+}
